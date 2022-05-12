@@ -1,0 +1,56 @@
+#Q1
+Enter the number to be converted to binary: 12
+0b1100
+---------------
+#Q2
+Enter the expression 5+3
+8
+---------------
+#Q3
+Enter the number n: 5
+Enter the number r: 25
+Enter the angle a: 0
+Enter the angle b: 0
+Enter the number x1: 5
+Enter the number x2: -6
+Enter the number y1: 4
+Enter the number y2: 5
+(3+4)(5) =  35
+n(n-1)/2 =  20.0
+4(pi)r^2 =  339.29200658769764
+sqrt(r(cosa)^2 + r(sinb)^2) =  5.0
+y2-y1/x2-x1 =  -0.09090909090909091
+---------------
+#Q4
+In the range(5)
+0
+1
+2
+3
+4
+In the range(3, 10)
+3
+4
+5
+6
+7
+8
+9
+In the range(4 ,13, 3)
+4
+7
+10
+In the range(15, 5, -2)
+15
+13
+11
+9
+7
+In the range(5, 3)
+---------------
+#Q5
+Enter the number of hydrogen atoms: 45
+Enter the number of carbon atoms: 21
+Enter the number of oxygen atoms: 1
+313.58194
+---------------
